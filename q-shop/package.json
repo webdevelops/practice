@@ -15,7 +15,7 @@
     "connected-react-router": "^6.4.0",
     "gh-pages": "^2.1.1",
     "history": "^4.9.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "prop-types": "^15.7.2",
     "react-document-title": "^2.0.3",
     "react-redux": "^7.1.0",
